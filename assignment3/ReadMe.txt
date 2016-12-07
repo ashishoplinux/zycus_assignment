@@ -1,4 +1,4 @@
-This is high Availabilty Architecute with AWS Environment , I have not worked with "Active MQ" and Tomcat(in deep) so I am providing high Availability Architecture without Active MQ  , The Explaination is as below for this diagram
+This is high Availabilty Architecute with AWS Environment ,
 
 I am using "Auto Scaling with load balancing" technique in AWS, that means it load will distribute among two instances and these two instance will always up due to Autoscaling policy.
 
